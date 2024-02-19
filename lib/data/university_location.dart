@@ -1,4 +1,4 @@
 import 'package:mis_lab_03_201076/models/Location.dart';
 
 Location university =
-    Location("University", 42.004186212873655, 21.409531941596985);
+    Location("University of Oxford", 51.75532695059838, -1.2543384170457834);
